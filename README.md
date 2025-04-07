@@ -1,4 +1,4 @@
-! [logo](https://github.com/Mayank-Sharma-10P/Mayank-Sharma-10P/blob/main/IMG-20250407-WA0000.jpg) 
+![logo](https://github.com/Mayank-Sharma-10P/Mayank-Sharma-10P/blob/main/IMG-20250407-WA0000.jpg) 
 <h1 align="center">Hi 👋, I'm Mayank-Sharma-10p</h1>
 <h3 align="center">Aspiring Data Analyst from 🩵 India</h3>
 
