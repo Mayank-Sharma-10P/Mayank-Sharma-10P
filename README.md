@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mayank-Sharma-10p</h1>
 <h3 align="center">Aspiring Data Analyst from 🩵 India</h3>
 
-<img align ="right" alt="Analysis " width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
+<img align ="right" alt="Analysis " width="600" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-sharma-10p&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-sharma-10p" /> </p>
 
